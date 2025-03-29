@@ -1,0 +1,11 @@
+{
+  "welcome": "Welcome to Travel App",
+  "login": "Login",
+  "register": "Register",
+  "cities": "Cities",
+  "hotels": "Hotels",
+  "error": {
+    "general": "An error occurred",
+    "not_found": "Resource not found"
+  }
+}
